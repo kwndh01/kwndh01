@@ -2,4 +2,4 @@
 <div align=center>
 ## tech
 
-[![AE](https://img.shields.io/badge/adobeaftereffects-9999FF?style=flat-square&logo=AdobeAfterEffects&logoColor=000000)]
+[![AE](https://img.shields.io/badge/AdobeAfterEffects-9999FF?style=flat-square&logo=AdobeAfterEffects&logoColor=000000)]
