@@ -2,6 +2,10 @@
 
 <div align=center>
 
+Mathematics & ComputerScience and Engineering
+Soongsil University
+2021~
+
 ## tech
 
 
